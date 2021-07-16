@@ -1,0 +1,3 @@
+﻿  relationship.cpp
+C:\Users\Bich\source\repos\relationship\relationship.cpp(187,21): warning C4018: '<': signed/unsigned mismatch
+  relationship.vcxproj -> C:\Users\Bich\source\repos\oop\Debug\relationship.exe
